@@ -62,6 +62,5 @@ public class Despegar
 		VerDetalles.click();
 		Thread.sleep(3000);
 		driver.quit();
-		
 	}
 }
